@@ -1,0 +1,1 @@
+$('a').css('color, font size')
